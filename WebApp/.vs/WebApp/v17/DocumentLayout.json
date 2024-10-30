@@ -3,44 +3,64 @@
   "WorkspaceRootPath": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\models\\rolepermissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:models\\rolepermissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\models\\audittrailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:models\\audittrailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\models\\permissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:models\\permissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\models\\applicationrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:models\\applicationrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\models\\applicationusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:models\\applicationusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\views\\usermanagement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:views\\usermanagement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\views\\audittrail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:views\\audittrail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\controllers\\audittrailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:controllers\\audittrailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\models\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:models\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\views\\usermanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:views\\usermanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|h:\\macam api\\webapptwo\\webapptwo\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E4AF1FF-C9B9-475F-A867-46A08B05CDAC}|WebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,136 +70,201 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T18:31:09.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
-              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "Models\\LoginViewModel.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T18:25:47.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuditTrailModel.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\AuditTrailModel.cs",
-              "RelativeDocumentMoniker": "Models\\AuditTrailModel.cs",
-              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\AuditTrailModel.cs",
-              "RelativeToolTip": "Models\\AuditTrailModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T16:07:14.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RolePermissionModel.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\RolePermissionModel.cs",
-              "RelativeDocumentMoniker": "Models\\RolePermissionModel.cs",
-              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\RolePermissionModel.cs",
-              "RelativeToolTip": "Models\\RolePermissionModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T16:06:45.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PermissionModel.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\PermissionModel.cs",
-              "RelativeDocumentMoniker": "Models\\PermissionModel.cs",
-              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\PermissionModel.cs",
-              "RelativeToolTip": "Models\\PermissionModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T16:05:55.761Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Views\\AuditTrail\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AuditTrail\\Index.cshtml",
+              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Views\\AuditTrail\\Index.cshtml",
+              "RelativeToolTip": "Views\\AuditTrail\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T17:32:41.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ApplicationRoleModel.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\ApplicationRoleModel.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationRoleModel.cs",
-              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\ApplicationRoleModel.cs",
-              "RelativeToolTip": "Models\\ApplicationRoleModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "AuditTrailController.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Controllers\\AuditTrailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuditTrailController.cs",
+              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Controllers\\AuditTrailController.cs",
+              "RelativeToolTip": "Controllers\\AuditTrailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T16:03:32.642Z",
+              "WhenOpened": "2024-10-30T17:31:39.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T16:15:20.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Views\\UserManagement\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserManagement\\Edit.cshtml",
+              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Views\\UserManagement\\Edit.cshtml",
+              "RelativeToolTip": "Views\\UserManagement\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T16:02:27.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Views\\UserManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserManagement\\Index.cshtml",
+              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Views\\UserManagement\\Index.cshtml",
+              "RelativeToolTip": "Views\\UserManagement\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T16:01:53.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserViewModel.cs",
+              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "Models\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:00:22.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ApplicationUserModel.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\ApplicationUserModel.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationUserModel.cs",
-              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\ApplicationUserModel.cs",
-              "RelativeToolTip": "Models\\ApplicationUserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Controllers\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserManagementController.cs",
+              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Controllers\\UserManagementController.cs",
+              "RelativeToolTip": "Controllers\\UserManagementController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwEQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T16:01:09.897Z",
+              "WhenOpened": "2024-10-30T15:34:52.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T15:46:49.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBYAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T15:30:55.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T15:29:01.16Z",
+              "WhenOpened": "2024-10-30T14:15:07.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T14:14:32.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterViewModel.cs",
+              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:08:49.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:10:13.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:28:41.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T05:19:55.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CRUD.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\CRUD.cs",
+              "RelativeDocumentMoniker": "Models\\CRUD.cs",
+              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Models\\CRUD.cs",
+              "RelativeToolTip": "Models\\CRUD.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:19:02.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\Macam API\\WebAppTwo\\WebAppTwo\\WebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:18:18.594Z",
               "EditorCaption": ""
             }
           ]

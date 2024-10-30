@@ -1,0 +1,26 @@
+﻿@model System.Data.DataTable
+
+<h2>Audit Trail</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Menu Accessed</th>
+            <th>Activity</th>
+            <th>Timestamp</th>
+            <th>Data Changes</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (System.Data.DataRow row in Model.Rows)
+        {
+            <tr>
+                <td>@row["Username"]</td>
+                <td>@row["MenuAccessed"]</td>
+                <td>@row["Activity"]</td>
+                <td>@((DateTime)row["ActivityTimestamp"]).ToString("g")</td>
+                <td>@row["DataChanges"]</td>
+            </tr>
+        }
+    </tbody>
+</table>

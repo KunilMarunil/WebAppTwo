@@ -1,0 +1,28 @@
+﻿@model DataTable
+
+<h2>User Management</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Full Name</th>
+            <th>Email</th>
+            <th>Is Active</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (DataRow row in Model.Rows)
+        {
+            <tr>
+                <td>@row["Username"]</td>
+                <td>@row["FullName"]</td>
+                <td>@row["Email"]</td>
+                <td>@((bool)row["IsActive"] ? "Yes" : "No")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@row["UserId"]" class="btn btn-primary">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
