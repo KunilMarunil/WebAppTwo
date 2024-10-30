@@ -30,10 +30,8 @@ This web application is a user management system built with **ASP.NET Core MVC**
 
 Clone the repository to your local machine:
 
-```bash
 git clone https://github.com/yourusername/YourRepo.git
 cd YourRepo
-```bash
 
 ### 2. Set Up the Database
 
