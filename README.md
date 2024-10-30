@@ -33,6 +33,7 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/YourRepo.git
 cd YourRepo
+```bash
 
 ### 2. Set Up the Database
 
